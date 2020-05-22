@@ -9,8 +9,8 @@ Created a Spring MVC Spring Boot Application for developing the Sample Online Mo
 - Web Browser(Google Crome, Mozilla Firefox, Microsoft Edge)
 
 # How to run the project?
-- Clone the repo as a maven project
-- Import all the dependencies
-- Run MovieTicketBookingApplication.java to run the application
-- You will see the processing and verification of the process during the job run
-- Open Browser and Type in localhost:{server_port}/showpage.jsp 
+- Clone the repo as a maven project.
+- Import all the dependencies.
+- Run MovieTicketBookingApplication.java to run the application.
+- You will see the processing and verification of the process during the job run.
+- Open Browser and Type in localhost:{server_port}/showpage.jsp.
